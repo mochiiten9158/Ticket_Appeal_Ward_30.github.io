@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(34, 34, 67);
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    background-color: rgb(34, 34, 67);
+}
+nav.navbar.navbar-inverse{
+    background-color: rgb(175, 126, 66);
+    font-family: 'Montserrat';
+    font-size: 22px;
+}
+nav.navbar.container-fluid.navbar-header.navbar-brand{
+    color: #000;
+}
+div#page{
+    background-color: rgb(34, 34, 67);
+}
+div#page div.information{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    color:white;
+    margin-left:190px;
+    margin-right:190px;
+    margin-top:60px;
+}
